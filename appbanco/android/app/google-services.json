@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153784754343",
+    "project_id": "appbanco-2564c",
+    "storage_bucket": "appbanco-2564c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153784754343:android:4855f21a07c0e6d2aabb82",
+        "android_client_info": {
+          "package_name": "com.appbanco.appbanco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsO_LKIZc6PEd_nty_MVdZLUGUAKfCwEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
